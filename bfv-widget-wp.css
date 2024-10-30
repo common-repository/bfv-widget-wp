@@ -1,0 +1,20 @@
+
+#bfv_widget_ligaAnzeige 
+{
+	margin	: 0;
+	padding	: 0;
+}
+
+#bfv_widget_ligaAnzeige table
+{
+	margin	: 0;
+	padding	: 0;
+	border	: none;
+}
+#bfv_widget_ligaAnzeige table tr td
+{
+	margin	: 0;
+	padding	: 0;
+	border	: none;
+}
+
